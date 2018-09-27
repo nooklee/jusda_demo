@@ -7,7 +7,7 @@
 		"uuidString": "07A6533C-0E59-4ACA-AB7A-47FE0878401F"
 		}
 	],
-"creatorBuild": "28815",
+"creatorBuild": "28841",
 "files": {
 	"/design_dark.html": {
 		"cB": 0,
@@ -16,11 +16,25 @@
 		"oAP": "/design_dark.html",
 		"oF": 0
 		},
+	"/design_dark_v2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_dark_v2.html",
+		"oF": 0
+		},
 	"/design_light.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/design_light.html",
+		"oF": 0
+		},
+	"/design_light_v2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_light_v2.html",
 		"oF": 0
 		},
 	"/donut_chart.html": {
@@ -38,12 +52,13 @@
 		"oF": 0,
 		"opt": 1
 		},
-	"/images/Donut_Pie_tmp797211997": {
-		"cB": 0,
-		"ft": 8192,
+	"/images/Header_menu.gif": {
+		"ft": 4194304,
+		"iS": 212018,
 		"oA": 0,
-		"oAP": "/images/Donut_Pie_tmp797211997",
-		"oF": 0
+		"oAP": "/images/Header_menu.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"/images/J00-Template-Homepage-Dark.png": {
 		"ft": 32768,
@@ -56,11 +71,33 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/J00-Template-Homepage-Darkv2.png": {
+		"ft": 32768,
+		"iS": 1264771,
+		"oA": 0,
+		"oAP": "/images/J00-Template-Homepage-Darkv2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/J00-Template-Homepage-Light.png": {
 		"ft": 32768,
 		"iS": 228446,
 		"oA": 0,
 		"oAP": "/images/J00-Template-Homepage-Light.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J00-Template-Homepage-Lightv2.png": {
+		"ft": 32768,
+		"iS": 1765287,
+		"oA": 0,
+		"oAP": "/images/J00-Template-Homepage-Lightv2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
