@@ -44,63 +44,80 @@
 		"oAP": "/donut_chart.html",
 		"oF": 0
 		},
-	"/images/Donut_Pie.gif": {
-		"ft": 4194304,
-		"iS": 313010,
+	"/images/bg.jpg": {
+		"ft": 16384,
+		"iS": 1229,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/Donut_Pie.gif",
+		"oAP": "/images/bg.jpg",
 		"oF": 0,
-		"opt": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
-	"/images/Header_menu.gif": {
-		"ft": 4194304,
-		"iS": 212018,
-		"oA": 0,
-		"oAP": "/images/Header_menu.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/J00-Template-Homepage-Dark.png": {
+	"/images/bg.png": {
 		"ft": 32768,
-		"iS": 246611,
+		"iS": 97,
 		"oA": 0,
-		"oAP": "/images/J00-Template-Homepage-Dark.png",
+		"oAP": "/images/bg.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J00-Homepage-Dark.png": {
+		"ft": 32768,
+		"iS": 217975,
+		"oA": 0,
+		"oAP": "/images/J00-Homepage-Dark.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/J00-Template-Homepage-Darkv2.png": {
+	"/images/J00-Homepage-Light.png": {
 		"ft": 32768,
-		"iS": 1264771,
+		"iS": 200319,
 		"oA": 0,
-		"oAP": "/images/J00-Template-Homepage-Darkv2.png",
+		"oAP": "/images/J00-Homepage-Light.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J00-Login.png": {
+		"ft": 32768,
+		"iS": 43858,
+		"oA": 0,
+		"oAP": "/images/J00-Login.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/J00-Template-Homepage-Light.png": {
+	"/images/J01-Homepage-Dark.png": {
 		"ft": 32768,
-		"iS": 228446,
+		"iS": 1392111,
 		"oA": 0,
-		"oAP": "/images/J00-Template-Homepage-Light.png",
+		"oAP": "/images/J01-Homepage-Dark.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/J00-Template-Homepage-Lightv2.png": {
+	"/images/J01-Homepage-Light.png": {
 		"ft": 32768,
-		"iS": 1765287,
+		"iS": 700528,
 		"oA": 0,
-		"oAP": "/images/J00-Template-Homepage-Lightv2.png",
+		"oAP": "/images/J01-Homepage-Light.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -115,11 +132,29 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/logo_w.png": {
+		"ft": 32768,
+		"iS": 2117,
+		"oA": 0,
+		"oAP": "/images/logo_w.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/login.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/login.html",
 		"oF": 0
 		},
 	"/README.md": {
