@@ -7,7 +7,7 @@
 		"uuidString": "07A6533C-0E59-4ACA-AB7A-47FE0878401F"
 		}
 	],
-"creatorBuild": "28841",
+"creatorBuild": "28901",
 "files": {
 	"/design_dark.html": {
 		"cB": 0,
@@ -65,6 +65,13 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/images/homepage.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/images/homepage.mp4",
+		"oF": 0
 		},
 	"/images/J00-Homepage-Dark.png": {
 		"ft": 32768,
@@ -174,6 +181,13 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/video.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/video.html",
+		"oF": 0
 		}
 	},
 "hooks": [
