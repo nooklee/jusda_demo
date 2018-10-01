@@ -73,61 +73,6 @@
 		"oAP": "/images/homepage.mp4",
 		"oF": 0
 		},
-	"/images/J00-Homepage-Dark.png": {
-		"ft": 32768,
-		"iS": 217975,
-		"oA": 0,
-		"oAP": "/images/J00-Homepage-Dark.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J00-Homepage-Light.png": {
-		"ft": 32768,
-		"iS": 200319,
-		"oA": 0,
-		"oAP": "/images/J00-Homepage-Light.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J00-Login.png": {
-		"ft": 32768,
-		"iS": 43858,
-		"oA": 0,
-		"oAP": "/images/J00-Login.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J01-Homepage-Dark.png": {
-		"ft": 32768,
-		"iS": 1392111,
-		"oA": 0,
-		"oAP": "/images/J01-Homepage-Dark.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J01-Homepage-Light.png": {
-		"ft": 32768,
-		"iS": 700528,
-		"oA": 0,
-		"oAP": "/images/J01-Homepage-Light.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/logo.png": {
 		"ft": 32768,
 		"iS": 3127,
@@ -147,6 +92,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/Overview.png": {
+		"ft": 32768,
+		"iS": 197522,
+		"oA": 0,
+		"oAP": "/images/Overview.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
