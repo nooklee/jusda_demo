@@ -30,6 +30,20 @@
 		"oAP": "/design_light.html",
 		"oF": 0
 		},
+	"/design_light_choose.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_light_choose.html",
+		"oF": 0
+		},
+	"/design_light_po.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_light_po.html",
+		"oF": 0
+		},
 	"/design_light_v2.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -73,6 +87,17 @@
 		"oAP": "/images/homepage.mp4",
 		"oF": 0
 		},
+	"/images/J00-Choose-Light.png": {
+		"ft": 32768,
+		"iS": 74349,
+		"oA": 0,
+		"oAP": "/images/J00-Choose-Light.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/J00-Homepage-Dark.png": {
 		"ft": 32768,
 		"iS": 217082,
@@ -103,6 +128,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J00-POlist-Light.png": {
+		"ft": 32768,
+		"iS": 132260,
+		"oA": 0,
+		"oAP": "/images/J00-POlist-Light.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
