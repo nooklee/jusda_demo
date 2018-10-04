@@ -23,6 +23,13 @@
 		"oAP": "/design_dark_v2.html",
 		"oF": 0
 		},
+	"/design_dark_v4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_dark_v4.html",
+		"oF": 0
+		},
 	"/design_light.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -51,11 +58,39 @@
 		"oAP": "/design_light_v2.html",
 		"oF": 0
 		},
+	"/design_light_v3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_light_v3.html",
+		"oF": 0
+		},
+	"/design_light_v4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_light_v4.html",
+		"oF": 0
+		},
 	"/donut_chart.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/donut_chart.html",
+		"oF": 0
+		},
+	"/elements.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/elements.html",
+		"oF": 0
+		},
+	"/fonts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/fonts.html",
 		"oF": 0
 		},
 	"/images/bg.jpg": {
@@ -77,6 +112,28 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/Elements.png": {
+		"ft": 32768,
+		"iS": 519127,
+		"oA": 0,
+		"oAP": "/images/Elements.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/Fonts.png": {
+		"ft": 32768,
+		"iS": 517550,
+		"oA": 0,
+		"oAP": "/images/Fonts.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -158,6 +215,39 @@
 		"iS": 796064,
 		"oA": 0,
 		"oAP": "/images/J01-Homepage-Light.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J02-Homepage-Light.png": {
+		"ft": 32768,
+		"iS": 137065,
+		"oA": 0,
+		"oAP": "/images/J02-Homepage-Light.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J03-Template-Homepage-Dark.png": {
+		"ft": 32768,
+		"iS": 811728,
+		"oA": 0,
+		"oAP": "/images/J03-Template-Homepage-Dark.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J03-Template-Homepage-Light.png": {
+		"ft": 32768,
+		"iS": 1314726,
+		"oA": 0,
+		"oAP": "/images/J03-Template-Homepage-Light.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
