@@ -137,35 +137,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/homepage.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/images/homepage.mp4",
-		"oF": 0
-		},
-	"/images/J00-Choose-Light.png": {
-		"ft": 32768,
-		"iS": 74349,
-		"oA": 0,
-		"oAP": "/images/J00-Choose-Light.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J00-Homepage-Dark.png": {
-		"ft": 32768,
-		"iS": 217082,
-		"oA": 0,
-		"oAP": "/images/J00-Homepage-Dark.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/J00-Homepage-Light.png": {
 		"ft": 32768,
 		"iS": 201391,
@@ -182,72 +153,6 @@
 		"iS": 48720,
 		"oA": 0,
 		"oAP": "/images/J00-Login.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J00-POlist-Light.png": {
-		"ft": 32768,
-		"iS": 132260,
-		"oA": 0,
-		"oAP": "/images/J00-POlist-Light.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J01-Homepage-Dark.png": {
-		"ft": 32768,
-		"iS": 1389884,
-		"oA": 0,
-		"oAP": "/images/J01-Homepage-Dark.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J01-Homepage-Light.png": {
-		"ft": 32768,
-		"iS": 796064,
-		"oA": 0,
-		"oAP": "/images/J01-Homepage-Light.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J02-Homepage-Light.png": {
-		"ft": 32768,
-		"iS": 137065,
-		"oA": 0,
-		"oAP": "/images/J02-Homepage-Light.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J03-Template-Homepage-Dark.png": {
-		"ft": 32768,
-		"iS": 811728,
-		"oA": 0,
-		"oAP": "/images/J03-Template-Homepage-Dark.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/J03-Template-Homepage-Light.png": {
-		"ft": 32768,
-		"iS": 1314726,
-		"oA": 0,
-		"oAP": "/images/J03-Template-Homepage-Light.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
