@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28901",
 "files": {
+	"/design_animated.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_animated.html",
+		"oF": 0
+		},
 	"/design_dark.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -72,6 +79,20 @@
 		"oAP": "/design_light_v4.html",
 		"oF": 0
 		},
+	"/design_v1.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_v1.html",
+		"oF": 0
+		},
+	"/design_v2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design_v2.html",
+		"oF": 0
+		},
 	"/donut_chart.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -92,6 +113,21 @@
 		"oA": 0,
 		"oAP": "/fonts.html",
 		"oF": 0
+		},
+	"/images/ANIMATED 2.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/images/ANIMATED 2.mp4",
+		"oF": 0
+		},
+	"/images/ANIMATED.gif": {
+		"ft": 4194304,
+		"iS": 2059434,
+		"oA": 0,
+		"oAP": "/images/ANIMATED.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"/images/bg.jpg": {
 		"ft": 16384,
@@ -137,11 +173,22 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/J00-Homepage-Light.png": {
+	"/images/J00-Homepage-v01.png": {
 		"ft": 32768,
-		"iS": 201391,
+		"iS": 142617,
 		"oA": 0,
-		"oAP": "/images/J00-Homepage-Light.png",
+		"oAP": "/images/J00-Homepage-v01.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/J00-Homepage-v02.png": {
+		"ft": 32768,
+		"iS": 146922,
+		"oA": 0,
+		"oAP": "/images/J00-Homepage-v02.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
